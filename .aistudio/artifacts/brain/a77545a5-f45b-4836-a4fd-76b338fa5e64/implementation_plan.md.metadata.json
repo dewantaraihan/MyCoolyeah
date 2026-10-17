@@ -1,0 +1,6 @@
+{
+  "summary": "Pembaruan dokumen perencanaan MyCoolyeah (Revisi 2) yang menyempurnakan: sapaan adaptif Home (fallback ke sapaan umum jika profil kosong), validasi keberadaan ID semester dalam @Transaction setActiveSemester() agar rollback aman jika ID tidak valid, klarifikasi verifikasi build melalui tool platform dan Gradle test, serta ketegasan logika ringkasan jadwal 00.00 WIB untuk hari kalender yang baru dimulai.",
+  "updatedAt": "2026-10-16T14:20:19.070268663Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Remix MyCoolyeah fixing layout",
+  "description": "Pengelola aktivitas akademik pribadi mahasiswa dengan antarmuka yang ramah, gaul, kekinian, dan menyenangkan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
