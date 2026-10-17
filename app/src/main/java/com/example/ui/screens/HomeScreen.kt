@@ -158,7 +158,7 @@ fun HomeScreen(
                         icon = Icons.Filled.School,
                         title = "Yuk Kenalan & Atur Kuliahmu!",
                         message = "Belum ada semester yang ditambahkan. Mulai langkah pertamamu dengan membuat semester aktif agar jadwal dan tugas tertata rapi.",
-                        buttonText = "+ Buat Semester Pertama",
+                        buttonText = "+ Buat Semester Baru",
                         onButtonClick = { showAddSemesterDialog = true }
                     )
                 } else {
